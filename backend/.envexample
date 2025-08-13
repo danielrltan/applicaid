@@ -1,5 +1,5 @@
 WATSONX_URL=https://api.au-syd.watson-orchestrate.cloud.ibm.com/instances/a74403e2-0d0b-417f-8889-d2bc8afc9a3e/api
-WATSONX_API_KEY=IIi7ugb-fsdkGfJPz4DcbRiK1xAyFdrvCck5Y2tR-t5R
+WATSONX_API_KEY=
 WATSONX_PROGRAM_COUNSELLOR_AGENT_ID=4eb9e19c-978d-4725-ac55-d8b7a93effaf
 GH_OWNER=danielrltan
 GH_REPO=applicaid-mockdata
